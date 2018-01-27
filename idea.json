@@ -1,0 +1,60 @@
+{
+  "url" : "",
+  "serverAddress": "",
+  "hashAddress" : "",
+  "description" : "",
+  "reward": 100,
+  "finish": false,
+  "result" : {
+    "sex" : ""
+  },
+  "users" : [
+    "123123dsdfsdfwe12312",
+    "123dfsdfefjkbsdasd12"
+  ]
+}
+
+本地加密 批量填写地址
+
+数据存储 单独图片 对应 唯一hash地址 私有链
+
+标注奖励 数据打包二次转卖 下载记录用户 公有链
+
+资源 /data/0x00hash
+
+/data/random
+
+用户 /user/0x00hash
+
+数据集 /collection/0x00hash
+
+/api/
+
+/account
+
+**/upload**
+
+**/label**
+
+**/pack**
+
+**/collections**
+
+用户注册 密码生成hash
+
+用户个人信息
+
+标引数据
+
+数据展示 图片 元数据表格
+
+数据集展示 交易信息 买方/卖方 确认购买
+
+打包数据 本地加密/地址验证/商品信息 确认发布
+
+
+
+
+
+
+

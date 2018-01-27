@@ -1,0 +1,28 @@
+{
+  "name": "data-trader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "node bootstrap.js",
+    "publish": "npm build && npm dev",
+    "progress": "node progress.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "clui": "^0.3.6",
+    "express": "^4.16.2",
+    "jsonfile": "^4.0.0",
+    "node-dir": "^0.1.17",
+    "uuid": "^3.2.1"
+  }
+}
