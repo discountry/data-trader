@@ -23,4 +23,4 @@ var setting = require('./routes/setting');
 
 app.use('/setting', setting);
 
-app.listen(8080, () => console.log('Example app listening on port 8080!'));
+app.listen(8080, () => console.log('Data-trader app listening on port 8080!'));

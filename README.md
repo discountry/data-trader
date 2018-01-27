@@ -2,6 +2,8 @@
 
 ## Screenshot
 
+![recording](tty.gif)
+
 ## Usage
 
 ```bash
