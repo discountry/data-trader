@@ -12,7 +12,8 @@
     "dev": "nodemon server.js",
     "build": "node bootstrap.js",
     "publish": "npm build && npm dev",
-    "progress": "node progress.js"
+    "progress": "node progress.js",
+    "presentation": "npm build && npm progress && npm dev"
   },
   "keywords": [],
   "author": "",
